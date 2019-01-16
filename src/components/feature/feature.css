@@ -1,0 +1,23 @@
+
+.feature {
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  &__icon {
+    margin-bottom: 20px;
+  }
+
+  &__heading {
+    font-size: 19px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+
+  &__copy {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+}
+

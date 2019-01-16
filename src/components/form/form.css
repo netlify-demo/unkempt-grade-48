@@ -1,0 +1,114 @@
+.form {
+  background-color: #FFFFFF;
+
+
+  @media screen and (max-width: 500px) {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    margin-left: -30px;
+    margin-right: -30px;
+  }
+
+  @media screen and (min-width: 501px) and (max-width: 1000px) {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+
+  @media screen and (min-width: 1001px) {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+
+
+  &__row {
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 40px;
+
+    position: relative;
+
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+
+
+  label {
+    margin-bottom: 10px;
+
+    @media screen and (max-width: 500px) {
+      font-size: 13px;
+    }
+  }
+
+
+  input {
+    font-size: 15px;
+    background-color: #F9FAFA;
+    border: 1px solid #E9EBEC;
+    border-radius: 3px;
+
+    padding: 10px;
+
+    @media screen and (max-width: 500px) {
+      font-size: 13px;
+    }
+  }
+
+
+  input::placeholder {
+    color: #B7BCBE;
+  }
+
+
+  select {
+    appearance: none;
+
+    padding: 10px;
+
+    background-color: #F9FAFA;
+    border: 1px solid #E9EBEC;
+    border-radius: 3px;
+
+    cursor: pointer;
+  }
+
+
+  .arrow-down {
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #000000;
+
+    position: absolute;
+    top: 47px;
+    right: 10px;
+  }
+
+
+  button {
+    font-size: 19px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #038379;
+    border: none;
+    border-radius: 3px;
+
+    margin-top: 20px;
+    padding: 15px;
+
+    cursor: pointer;
+  }
+
+
+}

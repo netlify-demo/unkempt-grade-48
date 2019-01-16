@@ -1,0 +1,48 @@
+
+.plain-section {
+
+  &__wrapper {
+
+    @media screen and (max-width: 500px) {
+      padding-top: 100px;
+      padding-bottom: 50px;
+      padding-left: 30px;
+      padding-right: 30px;
+    }
+
+
+    @media screen and (min-width: 501px) and (max-width: 1000px) {
+      padding-top: 120px;
+      padding-bottom: 50px;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+
+
+    @media screen and (min-width: 1001px) {
+      max-width: 1200px;
+      margin-left: auto;
+      margin-right: auto;
+
+      padding-top: 200px;
+      padding-bottom: 80px;
+      padding-left: 80px;
+      padding-right: 80px;
+    }
+
+  }
+
+
+  &__content {
+    max-width: 600px;
+  }
+
+
+  &__heading {
+    font-size: 51px;
+    margin-bottom: 20px;
+  }
+
+}
+
+

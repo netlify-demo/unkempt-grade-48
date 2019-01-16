@@ -1,0 +1,135 @@
+
+.landing-page-b {
+
+
+  @media screen and (min-width: 1001px) {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+
+    min-height: 100vh;
+  }
+
+
+  &__content-wrapper {
+    background-color: #F8F8F9;
+
+    flex: 1;
+
+
+    @media screen and (max-width: 500px) {
+      padding-top: 50px;
+      padding-bottom: 50px;
+      padding-left: 30px;
+      padding-right: 30px;
+
+      display: flex;
+      justify-content: center;
+    }
+
+
+    @media screen and (min-width: 501px) and (max-width: 1000px) {
+      padding-top: 50px;
+      padding-bottom: 50px;
+      padding-left: 50px;
+      padding-right: 50px;
+
+      display: flex;
+      justify-content: center;
+    }
+
+
+    @media screen and (min-width: 1001px) {
+      padding-top: 80px;
+      padding-bottom: 80px;
+      padding-left: 80px;
+      padding-right: 80px;
+
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+
+
+  &__content {
+    max-width: 500px;
+    line-height: 1.6;
+  }
+
+
+  &__form-wrapper {
+    flex: 1;
+
+
+    @media screen and (max-width: 500px) {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 20px;
+      padding-right: 20px;
+
+      display: flex;
+      justify-content: center;
+    }
+
+
+    @media screen and (min-width: 501px) and (max-width: 1000px) {
+      padding-top: 30px;
+      padding-bottom: 30px;
+      padding-left: 30px;
+      padding-right: 30px;
+
+      display: flex;
+      justify-content: center;
+    }
+
+
+    @media screen and (min-width: 1001px) {
+      padding-top: 40px;
+      padding-bottom: 40px;
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+  }
+
+
+  &__form {
+    max-width: 580px;
+    flex: 1;
+  }
+
+
+  &__heading {
+    font-size: 51px;
+    color: #000000;
+
+    margin-bottom: 10px;
+  }
+
+
+  &__illustration {
+    margin-top: 20px;
+
+    width: 100%;
+    max-width: 300px;
+  }
+
+
+
+
+
+
+
+
+  &__features {
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+
+
+  }
+
+}
+

@@ -1,0 +1,250 @@
+.home-page {
+
+  &__buttons {
+    margin-top: 60px;
+
+    display: flex;
+    justify-content: flex-start;
+
+    @media screen and (max-width: 500px) {
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+
+
+  &__button,
+  &__button:visited {
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #038379;
+    font-weight: 700;
+    border-radius: 3px;
+    text-decoration: none;
+
+    transition: opacity .3s;
+
+
+    @media screen and (max-width: 500px) {
+      padding: 15px 15px;
+      display: block;
+      text-align: center;
+
+      margin-bottom: 30px;
+    }
+
+
+    @media screen and (min-width: 501px) {
+      padding: 15px 50px;
+
+      margin-right: 30px;
+    }
+  }
+
+
+  &__button:hover {
+    opacity: .85;
+  }
+
+
+  &__button:active {
+    opacity: 1;
+  }
+
+
+  &__button--cta,
+  &__button--cta:visited {
+    font-weight: 700;
+    color: #000000;
+    background-color: #E7D74F;
+    border: none;
+  }
+
+
+  .home-page-hero {
+    background-color: #F7F7F8;
+    position: relative;
+
+
+    &__heading {
+      font-size: 51px;
+      color: #000000;
+      margin-bottom: 20px;
+
+      @media screen and (max-width: 500px) {
+        font-size: 38px;
+      }
+    }
+
+
+    &__copy {
+      line-height: 1.6;
+    }
+
+
+    &__wrapper {
+      @media screen and (max-width: 500px) {
+        padding-top: 100px;
+        padding-bottom: 220px;
+        padding-left: 30px;
+        padding-right: 30px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+
+      @media screen and (min-width: 501px) and (max-width: 1000px) {
+        padding-top: 150px;
+        padding-bottom: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+
+      @media screen and (min-width: 1001px) {
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+
+        padding-top: 180px;
+        padding-bottom: 200px;
+        padding-left: 80px;
+        padding-right: 80px;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+      }
+    }
+
+
+    &__content {
+      @media screen and (max-width: 500px) {
+        margin-bottom: 80px;
+      }
+
+      @media screen and (min-width: 501px) and (max-width: 1000px) {
+        max-width: 600px;
+        margin-bottom: 100px;
+      }
+
+      @media screen and (min-width: 1001px) {
+        flex: 1;
+        margin-right: 120px;
+      }
+    }
+
+
+    &__illustration {
+      width: 100%;
+      max-width: 300px;
+
+      @media screen and (min-width: 1001px) {
+        flex: 1;
+      }
+    }
+  }
+
+
+
+  .home-page-next {
+
+    &__heading {
+      font-size: 51px;
+      color: #000000;
+      margin-bottom: 20px;
+
+      @media screen and (max-width: 500px) {
+        font-size: 38px;
+      }
+    }
+
+
+    &__copy {
+      line-height: 1.6;
+    }
+
+
+    &__wrapper {
+      @media screen and (max-width: 500px) {
+        padding-top: 100px;
+        padding-bottom: 220px;
+        padding-left: 30px;
+        padding-right: 30px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+
+      @media screen and (min-width: 501px) and (max-width: 1000px) {
+        padding-top: 150px;
+        padding-bottom: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+
+      @media screen and (min-width: 1001px) {
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+
+        padding-top: 180px;
+        padding-bottom: 200px;
+        padding-left: 80px;
+        padding-right: 80px;
+
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        align-items: flex-start;
+      }
+    }
+
+
+    &__content {
+      @media screen and (max-width: 500px) {
+        margin-bottom: 80px;
+      }
+
+      @media screen and (min-width: 501px) and (max-width: 1000px) {
+        max-width: 600px;
+        margin-bottom: 100px;
+      }
+
+      @media screen and (min-width: 1001px) {
+        flex: 1;
+        margin-left: 90px;
+      }
+    }
+
+
+    &__illustration {
+      width: 100%;
+      max-width: 500px;
+
+      @media screen and (min-width: 1001px) {
+        flex: 1;
+        max-width: 360px;
+      }
+    }
+
+  }
+}
+

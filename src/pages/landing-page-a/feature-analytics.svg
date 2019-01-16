@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="130px" viewBox="0 0 170 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>feature-analytics</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.441732742 0.0100690861 134.019293 0.0100690861 134.019293 85.4997079 0.441732742 85.4997079"></polygon>
+        <filter x="-8.2%" y="-11.7%" width="116.5%" height="125.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0683876812 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="-31.6571178%" y1="0%" x2="90.1461529%" y2="59.2182991%" id="linearGradient-3">
+            <stop stop-color="#22404A" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.508322011" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.211192255" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.0519134964" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="feature-analytics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-33" transform="translate(8.647658, 6.295497)">
+            <g id="Group-32" transform="translate(0.475539, 0.817079)">
+                <g id="Rectangle-16">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-31" transform="translate(10.500232, 14.522713)">
+                    <g id="Group-9" transform="translate(0.562828, 0.217882)">
+                        <circle id="Oval-4" fill="#038379" cx="1.92731602" cy="1.92731602" r="1.92731602"></circle>
+                        <path d="M8.98640799,1.92731602 L31.4271611,1.92731602" id="Path-16" stroke="#14232A" stroke-width="1.02187008"></path>
+                    </g>
+                    <g id="Group-8" transform="translate(0.562828, 5.489242)">
+                        <circle id="Oval-4" fill="#E7D74F" opacity="0.377845982" cx="1.92731602" cy="2.74324708" r="1.92731602"></circle>
+                        <path d="M8.98640799,2.74324708 L31.4271611,2.74324708" id="Path-16" stroke="#14232A" stroke-width="1.02187008"></path>
+                    </g>
+                    <g id="Group-8" transform="translate(0.562828, 12.045480)">
+                        <circle id="Oval-4" fill="#E7D74F" cx="1.92731602" cy="2.74324708" r="1.92731602"></circle>
+                        <path d="M8.98640799,2.74324708 L31.4271611,2.74324708" id="Path-16" stroke="#14232A" stroke-width="1.02187008"></path>
+                    </g>
+                    <g id="Group-8" transform="translate(0.562828, 18.601718)">
+                        <circle id="Oval-4" fill="#F6BC02" cx="1.92731602" cy="2.74324708" r="1.92731602"></circle>
+                        <path d="M8.98640799,2.74324708 L31.4271611,2.74324708" id="Path-16" stroke="#14232A" stroke-width="1.02187008"></path>
+                    </g>
+                </g>
+                <g id="Group-30" transform="translate(33.669024, 38.913312)">
+                    <circle id="Oval-3" stroke="#EAEBEC" stroke-width="0.5" fill="#EAEBEC" cx="36.3201306" cy="36.3201306" r="36.0701306"></circle>
+                    <path d="M60.9455012,62.7533482 C68.6562335,55.9354909 73.0478909,44.1138382 72.6402612,36.3201306 C62.7662629,36.3397904 49.578552,36.3201306 36.3201306,36.3397904 C49.2786172,50.8774151 57.4870741,59.6819344 60.9455012,62.7533482 Z" id="Oval-3" fill="#038379"></path>
+                    <path d="M62.8952077,62.7533482 C70.60594,55.9354909 74.9975973,44.1138382 74.5899676,36.3201306 C64.7159694,36.3397904 51.5282584,36.3201306 38.2698371,36.3397904 C51.2283237,50.8774151 59.4367805,59.6819344 62.8952077,62.7533482 Z" id="Oval-3" fill="url(#linearGradient-3)" opacity="0.233761161"></path>
+                    <path d="M70.8656102,47.1974678 C72.6402612,43.0127336 72.6402612,37.6528302 72.6402612,36.3201306 C62.7662629,36.3397904 49.578552,36.3201306 36.3201306,36.3397904 C56.28853,42.6779235 67.8036898,46.2971493 70.8656102,47.1974678 Z" id="Oval-3" fill="#E7D74F"></path>
+                    <path d="M36.3201306,0 C16.2610764,0 0,16.2610764 0,36.3201306 C0,56.3791848 16.2610764,72.6402612 36.3201306,72.6402612 L36.3201306,0 Z" id="Oval-3" fill="#038379"></path>
+                    <path d="M36.3201306,0 C16.2610764,0 0,16.2610764 0,36.3201306 C0,56.3791848 16.2610764,72.6402612 36.3201306,72.6402612 L36.3201306,0 Z" id="Oval-3" fill="url(#linearGradient-4)"></path>
+                    <path d="M72.6402612,0 C52.5812069,0 36.3201306,16.2610764 36.3201306,36.3201306 L72.6402612,36.3201306 L72.6402612,0 Z" id="Oval-3" fill="#000000" transform="translate(54.480196, 18.160065) scale(-1, 1) translate(-54.480196, -18.160065) "></path>
+                </g>
+                <g id="Group-29" transform="translate(96.889186, 15.010870)">
+                    <g id="Group-28" transform="translate(0.360503, 0.170499)">
+                        <polygon id="Rectangle-15" fill="#E7D74F" points="3.25601475 2.00674836 7.87770483 2.00674836 7.87770483 22.1768671 3.25601475 22.1768671"></polygon>
+                        <polygon id="Rectangle-15" fill="#0F1E24" points="10.7918091 7.85156049 15.4134992 7.85156049 15.4134992 22.1768671 10.7918091 22.1768671"></polygon>
+                        <polygon id="Rectangle-15" fill="#E7D74F" opacity="0.377845982" points="18.3276035 5.15067671 22.9492936 5.15067671 22.9492936 22.1768671 18.3276035 22.1768671"></polygon>
+                        <polyline id="Path-36" stroke="#14232A" stroke-width="0.54208" points="0.0415529226 0 0.0415529226 24.8700643 28.0302576 24.8700643"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

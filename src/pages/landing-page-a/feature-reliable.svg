@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="130px" viewBox="0 0 170 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>feature-reliable</title>
+    <desc>Created with Sketch.</desc>
+    <g id="feature-reliable" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-5" transform="translate(8.439389, 20.924952)">
+            <polyline id="Path-2" stroke="#E7D74F" stroke-width="4.4636307" opacity="0.53" points="57.4643019 31.2709064 67.8685747 44.9965065 89.3748788 14.7433596"></polyline>
+            <path d="M76.193231,18.9117271 C68.799395,7.72361602 56.1089161,0.343140274 41.6946348,0.343140274 C18.87333,0.343140274 0.373007242,18.8434631 0.373007242,41.6647678 C0.373007242,64.4860725 18.87333,82.9863953 41.6946348,82.9863953 C56.1544027,82.9863953 68.8794715,75.5592656 76.26307,64.3117773" id="Oval" stroke="#000000" stroke-width="4" stroke-linejoin="round" stroke-dasharray="4.899999999999999,9.799999999999999"></path>
+            <polyline id="Path-2" stroke="#091E26" stroke-width="4.4636307" points="69.4643019 31.2709064 79.8685747 44.9965065 101.374879 14.7433596"></polyline>
+        </g>
+    </g>
+</svg>

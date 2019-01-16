@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="130px" viewBox="0 0 170 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>feature-cdn</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="91.3935266%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.102921196" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.330700861" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="feature-cdn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15" transform="translate(11.800410, 7.709929)">
+            <g id="cdn-minimal-ver" transform="translate(0.230153, 57.553601)">
+                <g id="cdn" transform="translate(0.100029, 0.711252)">
+                    <path d="M39.6285574,42.3575449 L39.6285574,52.6113889" id="Path-27" stroke="#091E26" stroke-width="5.68156422" stroke-linecap="round"></path>
+                    <path d="M0.345900866,53.1127355 L78.911214,53.1127355" id="Path-28" stroke="#091E26" stroke-width="5.68156422" stroke-linecap="round"></path>
+                    <path d="M5.25895482,0 L74.3325724,-8.8817842e-16 C76.793001,-1.34015181e-15 78.7875724,1.99457144 78.7875724,4.455 L78.7875724,20.2955733 L0.80395482,20.2955733 L0.80395482,4.455 C0.80395482,1.99457144 2.79852626,-4.36205026e-16 5.25895482,-8.8817842e-16 Z" id="Rectangle-3" fill="#000000"></path>
+                    <path d="M49.5018098,5.76965087 L73.5815188,5.76965087" id="Path-66" stroke="#038379" stroke-width="2.1384" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#5D686D" cx="51.4531085" cy="12.4612997" r="1.60790964"></circle>
+                    <circle id="Oval" fill="#E7D74F" cx="57.0807922" cy="12.4612997" r="1.60790964"></circle>
+                    <path d="M0.80395482,23.117987 L78.7875724,23.117987 L78.7875724,38.9585603 C78.7875724,41.4189889 76.793001,43.4135603 74.3325724,43.4135603 L5.25895482,43.4135603 C2.79852626,43.4135603 0.80395482,41.4189889 0.80395482,38.9585603 L0.80395482,23.117987 Z" id="Rectangle-3" fill="#000000"></path>
+                    <path d="M49.5018098,30.6922503 L73.5815188,30.6922503" id="Path-66" stroke="#038379" stroke-width="2.1384" stroke-linecap="round"></path>
+                    <circle id="Oval" fill="#E7D74F" cx="51.4531085" cy="37.3838991" r="1.60790964"></circle>
+                    <circle id="Oval" fill="#5D686D" cx="57.0807922" cy="37.3838991" r="1.60790964"></circle>
+                </g>
+            </g>
+            <polygon id="Path-9" fill="#E7D74F" points="42.2151749 24.37463 24.2492245 22.4527006 35.0605834 0.215839626 56.6160718 0.215839626 37.0380112 17.7803555 55.5283841 17.7803555 37.421688 48.5334204"></polygon>
+            <polygon id="Path-9" fill="url(#linearGradient-1)" points="42.2151749 24.37463 24.2492245 22.4527006 35.0605834 0.215839626 56.6160718 0.215839626 37.0380112 17.7803555 55.5283841 17.7803555 37.421688 48.5334204"></polygon>
+        </g>
+    </g>
+</svg>
